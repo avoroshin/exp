@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/exp/static/css/main.f3c4047a.css",
-    "main.js": "/exp/static/js/main.19007a64.js",
+    "main.css": "/exp/static/css/main.1deb090a.css",
+    "main.js": "/exp/static/js/main.aa97fc8b.js",
     "static/media/en.svg": "/exp/static/media/en.8f1bacdb63705e3a34b4bd6137b01408.svg",
     "static/media/recipients.svg": "/exp/static/media/recipients.9d5568c3fde7d41a96aee92e7b36f85e.svg",
     "static/media/expenses.svg": "/exp/static/media/expenses.7aebaaff310e5712c6a7fc02a5b9bfc7.svg",
@@ -17,10 +17,12 @@
     "static/media/checkbox.svg": "/exp/static/media/checkbox.f9b4dadc15e8c6d587b7266da6f5d4b6.svg",
     "index.html": "/exp/index.html",
     "static/media/remove.svg": "/exp/static/media/remove.1af66eebf448fe3fdaf2a86bd10cc2d4.svg",
-    "static/media/getFetch.cjs": "/exp/static/media/getFetch.c780682470504fffbd04.cjs"
+    "static/media/plus.svg": "/exp/static/media/plus.21ec4315b67eceac1a82414e035f4101.svg",
+    "static/media/getFetch.cjs": "/exp/static/media/getFetch.c780682470504fffbd04.cjs",
+    "static/media/minus.svg": "/exp/static/media/minus.06169fd7875a53ce92510da1ce64fc68.svg"
   },
   "entrypoints": [
-    "static/css/main.f3c4047a.css",
-    "static/js/main.19007a64.js"
+    "static/css/main.1deb090a.css",
+    "static/js/main.aa97fc8b.js"
   ]
 }
