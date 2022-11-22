@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exp/static/css/main.f3c4047a.css",
-    "main.js": "/exp/static/js/main.f743a1f1.js",
+    "main.js": "/exp/static/js/main.19007a64.js",
     "static/media/en.svg": "/exp/static/media/en.8f1bacdb63705e3a34b4bd6137b01408.svg",
     "static/media/recipients.svg": "/exp/static/media/recipients.9d5568c3fde7d41a96aee92e7b36f85e.svg",
     "static/media/expenses.svg": "/exp/static/media/expenses.7aebaaff310e5712c6a7fc02a5b9bfc7.svg",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.f3c4047a.css",
-    "static/js/main.f743a1f1.js"
+    "static/js/main.19007a64.js"
   ]
 }
